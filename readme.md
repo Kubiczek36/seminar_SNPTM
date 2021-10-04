@@ -36,3 +36,5 @@ Pak si na kartě `Get More Styles` vyber
 > ![cit_styl](images/psani_prace_styly.png)
 
 Samotný odkaz do textu (např `[1]`), přidáš pomocí `Insert or edit citation`. Seznam zdrojů vyvoříš pomocí `Insert Bibliography`.
+
+A kdyby něco, tak se ozývejte :) 
