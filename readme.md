@@ -21,6 +21,14 @@ No hlavně prezentace a níže v dokumentu i pár tipů. Prezentace budu přidá
 
 O mendeley jsem na kurzu mluvil, je to velmi užitečný nástroj při spravování odborných zdrojů. [__Stáhneš ho zde__](https://www.mendeley.com/download-reference-manager/).
 
-Taktéž je dobré si nainstalovat [__doplněk do prohlížeče__](https://www.mendeley.com/reference-management/web-importer). A pomocí tohoto návodu také doplněk Pro MS Word, na to je [tento návod](https://www.mendeley.com/guides/using-citation-editor). Vše najdeš na kartě ´preference´ 
+Taktéž je dobré si nainstalovat [__doplněk do prohlížeče__](https://www.mendeley.com/reference-management/web-importer). A pomocí tohoto návodu také doplněk Pro MS Word, na to je [tento návod](https://www.mendeley.com/guides/using-citation-editor). Vše najdeš na kartě ´preference´.
 
-Ve Wordu je zapotřebí nastavit správný citační styl.Proto u 
+Ve Wordu je zapotřebí nastavit správný citační styl. Proto na kartě ´reference´ vyber možnost ´style´.
+![přidat styl](images/mendeley_in_word.png)
+![more styles](images/get_more_styles.png)
+
+Pak si na kartě ´Get More Styles´ vyber 
+- ´ISO-690 (author-date, Czech)´ pro možnost autor-datum (Harvardský styl), 
+- ´ISO-690 (note, without bibliography, Czech)´ pro možnost citace formou poznámek pod čarou,
+- ´ISO-690 (numeric, brackets, Czech)´ pro možnost číslování.
+
