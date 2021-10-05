@@ -8,7 +8,7 @@ vítám tě v repozitáři, kde nalezneš prezentace ze semináře k SOČ, kter�
 No hlavně __prezentace__ a níže v dokumentu i pár tipů. Prezentace budu přidávat postupně a to v PDFku, Powerpointu a formátu pro Keynote, ve kterém byla prezentace původně vytvořena. Proto, když prezentaci otevřeš v powerpointu, tak může být rozbitá. 
 
 - Jak psát práci [PDF](./psani_prace.pdf), [Powerpoint](https://docs.google.com/presentation/d/13rQ8VCCOM4thi7m33rWzZov0sNDrLfFB/edit?usp=sharing&ouid=109922989717024265620&rtpof=true&sd=true), [Keynote](https://drive.google.com/file/d/1dP9eGFrDgbXv8eoVXCElvSp8dQsq2rL-/view?usp=sharing)
-- Prezentace SOČ PDF, Powerpoint, Keynote (_přidám později_)
+- Prezentace SOČ [PDF](./prezentace.pdf), Powerpoint, Keynote (_přidám později_)
 
 ### Odpovědi na otázky
 
