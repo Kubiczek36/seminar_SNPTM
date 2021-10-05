@@ -41,7 +41,12 @@ __Jak zpracovat téma do práce?__
 
 > Asi idedální je poradit s tvým učitelem. Ale předpokládám, že hlavně budeš pátrat někde v archivech nebo jiných zdrojích a tvou prací by mělo být ukazovat dosud neznámá historická fakta.
 
-- __Jak se něco naučit a jak aplikovat dovednosti?__
+- __Plagiátorství, inspirace v jiných pracech.__
+> To, že přebíráš myšlenky z jiných zdrojů je v pořádku stejně tak i inspirace. Je však důležité, aby jsi řádně uvedl všechny zdroje, aby bylo možné vidět, co jsi udělal ty. Pro porotce je to klíčové, jelikož posuzují to kolik jsi toho sám udělal. Právě objevit něco nového a přijít s něčím novým je to co vyhrává. Proto, aby sis ověřil(a) jestli tvá práce není plagiát doporučuji ji před odevzdáním prohnat některým z softwarů jako je třeba [Odevzdej.cz](https://odevzdej.cz).
 
 - __Co musí práce obsahovat (kritéria a podmínky)__
-- __Plagiátorství, inspirace v jiných pracech.__
+
+> Co by měla práce obsahovat je uvedeno výše. Tzn. něco z teorie, která je klíčová, pro tvůj objev, to na čem jsi pracoval a co jsi objevil a následně, co z toho plyne. U práce je odporučené, aby měla zhruba 20 - 30 stran bez příloh (závisí taky na na tom kolik tam máš obrázků).
+
+- __Jak se něco naučit a jak aplikovat dovednosti?__
+> 
