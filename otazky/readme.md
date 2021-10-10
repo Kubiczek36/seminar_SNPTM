@@ -49,4 +49,4 @@ __Jak zpracovat téma do práce?__
 > Co by měla práce obsahovat je uvedeno výše. Tzn. něco z teorie, která je klíčová, pro tvůj objev, to na čem jsi pracoval a co jsi objevil a následně, co z toho plyne. U práce je odporučené, aby měla zhruba 20 - 30 stran bez příloh (závisí taky na na tom kolik tam máš obrázků).
 
 - __Jak se něco naučit a jak aplikovat dovednosti?__
-> 
+> Práce na projektu, ze kterého následně budeš psát soutěžní práci je bezesporu jedním z nejlepších způsobů, jak se neučit něčemu novému. Rád říkám, že právě takto se nejsnáze podíváš některému oboru "pod pokličku". Učení se novým věcem přirozeně přichází při zpracovávání projektu. A aplikace dovedností? Uvidíš, že často se budeš učit tím, že něco rovnou začněš dělat. Jak se anglicky říká _learning by doing_. Takže o tuto stránku bych neměl starost. 🙂
