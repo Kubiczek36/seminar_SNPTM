@@ -21,9 +21,16 @@ Dále na [této podstránce](./otazky/readme.md) nalezneš odpovědi na otázky,
 - [Šablona vytvořená JCMM](./sablona_pro_sockare.docx) - Tato šablona je velmi povedená obsahuje velké množství komentářů, které vám mohou pomoct.
 - [oficiální šablona SOČ](https://www.soc.cz/dokumenty/sablona_SOC.docx)
 
+## Jak nainstalovat Zotero
+
+[Zotero](http://zotero.org) je velmni užitečný nástroj pro správu článků a literatury. Mimo jiné se také kamarádí s Wordem, do kterého umožňuje přímo vkládat citace a bibliografii.
+
+Narozdíl od Mendeley Zotero nepatří žádné společnosti je volně přístupné a open source (FOSS - Free and Open Source Software). Svoji knihovnu můžes synchronizovat napříč zařízeními, takže můžes ke svým zdrojům přistupovat třeba z aplikace pro iPad.
+
+
 ## Jak si nainstalovat Mendeley 
 ```diff
-- STARŠÍ NYNÍ DOPORUČUJI POUŽÍVAT ZOTERO!
+- STARŠÍ, NYNÍ SE UŽ NEVYVÍJÍ. DOPORUČUJI POUŽÍVAT ZOTERO!
 ```
 
 ![Logo Mendeley](https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg)
