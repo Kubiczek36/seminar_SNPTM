@@ -21,7 +21,10 @@ Dále na [této podstránce](./otazky/readme.md) nalezneš odpovědi na otázky,
 - [Šablona vytvořená JCMM](./sablona_pro_sockare.docx) - Tato šablona je velmi povedená obsahuje velké množství komentářů, které vám mohou pomoct.
 - [oficiální šablona SOČ](https://www.soc.cz/dokumenty/sablona_SOC.docx)
 
-## Jak si nainstalovat Mendeley <div style="color:red;"> STARŠÍ NYNÍ DOPORUČUJI POUŽÍVAT ZOTERO! <\div>
+## Jak si nainstalovat Mendeley 
+```diff
+- STARŠÍ NYNÍ DOPORUČUJI POUŽÍVAT ZOTERO!
+```
 
 ![Logo Mendeley](https://static.mendeley.com/md-stitch/releases/live/logo.2e96971e.svg)
 
